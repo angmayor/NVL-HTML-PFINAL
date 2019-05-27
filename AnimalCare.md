@@ -11,6 +11,11 @@
         sus dueños estan trabajando, de viaje o quieren que aprendas sanamente con nosotros. Pensamos en el planeta 
         y invertimos en el desarollo de mejoras para contribuir con la conservacion y reciclaje de la naturaleza.</p>
       <img src="https://images.app.goo.gl/Ub3cULeGYDjg6gjb8"/>
+      <p>Cuidado de mascotas y cuidado de perros compasivo y experto. Ya sea que busque un paseador de perros o una estadía de 
+        una noche, o la capacitación, nos aseguramos de que usted y su mascota pasen con nosotros sin estrés y ¡sean 
+        divertidos!Ofrecemos paseos para perros, cuidado de mascotas, modificación de comportamiento y pernoctaciones para todos 
+        los animales. Cada visita con su mascota viene con una boleta de calificaciones con seguimiento por GPS, fotos y 
+        actualizaciones enviadas directamente a su teléfono.</p>
     </div>
     <div>
       <h4>Nuestros Servicios</h4>
