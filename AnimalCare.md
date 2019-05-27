@@ -61,7 +61,8 @@
       <h4>Contacto</h4>
       <from method="pots" action="miservidor.php">
       <label for="nombre">Nombre:</label>
-      <input id="nombre" type="text">
+      <input id="nombre" type="text"> <br/>
+      <label for="telefono">Telefono:</label>
     </div>
   </body>
 </html>
