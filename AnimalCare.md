@@ -57,5 +57,11 @@
         </tr>
       </table>
     </div>
+    <div>
+      <h4>Contacto</h4>
+      <from method="pots" action="miservidor.php">
+      <label for="nombre">Nombre:</label>
+      <input id="nombre" type="text">
+    </div>
   </body>
 </html>
