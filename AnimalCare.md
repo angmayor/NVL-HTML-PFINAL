@@ -63,6 +63,8 @@
       <label for="nombre">Nombre:</label>
       <input id="nombre" type="text"> </br>
       <label for="telefono">Telefono:</label> </br>
+      <label for="email">Email</label>
+      <input id="email type="text"> </br>
     </div>
   </body>
 </html>
