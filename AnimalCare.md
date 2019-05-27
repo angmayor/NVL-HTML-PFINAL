@@ -23,6 +23,14 @@
           <td>Por Hora</td>
           <td>10 &#8364;</td>
         </tr>
+        <tr>
+          <td>Por dia</td>
+          <td>150 &#8364;</td>
+        </tr>
+        <tr>
+          <td>Por Semana</td>
+          <td>800 &#8364;</td>
+        </tr>
       </table>
     </div>
   </body>
