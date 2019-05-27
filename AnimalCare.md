@@ -28,6 +28,9 @@
       <p>Tómese esas largas vacaciones que ha estado esperando, o simplemente vaya al trabajo todos los días con la 
         tranquilidad de que su mascota está recibiendo la atención y el ejercicio que merece de un cuidador de mascotas             
         profesional en el que puede confiar.</p>
+      <p>Proporciona el más alto nivel de servicios de cuidado de mascotas. Contratamos a los mejores cuidadores de mascotas y 
+        entrenadores y utilizamos la tecnología más actualizada. La programación y la comunicación son muy fáciles con la 
+        aplicación para propietarios de mascotas.</p>
     </div>
     <div>
       <a name="tres"></a>
