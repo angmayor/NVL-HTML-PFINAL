@@ -7,13 +7,19 @@
   <body>
     <div>
       <h4>¿Quienes somos?</h4>
-      <p>Profesionales en el cuidado y aprendizaje sano de mascotas que ofrecemos servicio en Madrid mientras que sus dueños estan      
-        trabajando, de viaje o quieren que aprendas sanamente con nosotros. Pensamos en el planeta y invertimos en el desarollo de 
-        mejoras para contribuir con la conservacion y reciclaje de la naturaleza.</p>
+      <p>Profesionales en el cuidado y aprendizaje sano de mascotas que ofrecemos servicio en Madrid mientras que
+        sus dueños estan trabajando, de viaje o quieren que aprendas sanamente con nosotros. Pensamos en el planeta 
+        y invertimos en el desarollo de mejoras para contribuir con la conservacion y reciclaje de la naturaleza.</p>
       <img src="https://images.app.goo.gl/Ub3cULeGYDjg6gjb8"/>
     </div>
     <div>
       <h4>Nuestros Servicios</h4>
+      <p>Tómese esas largas vacaciones que ha estado esperando, o simplemente vaya al trabajo todos los días con la 
+        tranquilidad de que su mascota está recibiendo la atención y el ejercicio que merece de un cuidador de mascotas             
+        profesional en el que puede confiar.</p>
+    </div>
+    <div>
+      <h4>Precio</h4>
       <table>
         <tr>
           <td>Tiempo</td>
