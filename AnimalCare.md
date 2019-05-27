@@ -5,7 +5,12 @@
     <h2>Personal Pets</h2>
   </head>
   <body>
+    <a href="#uno">¿Quienes Somos?</a>
+    <a href="#dos">Nuestros Servicios</a>
+    <a href="#tres">Precio</a>
+    <a href="#cuatro">Contacto</a>
     <div>
+      <a name="uno"></a>
       <h4>¿Quienes somos?</h4>
       <p>Profesionales en el cuidado y aprendizaje sano de mascotas que ofrecemos servicio en Madrid mientras que
         sus dueños estan trabajando, de viaje o quieren que aprendas sanamente con nosotros. Pensamos en el planeta 
@@ -18,12 +23,14 @@
         actualizaciones enviadas directamente a su teléfono.</p>
     </div>
     <div>
+      <a name="dos"></a>
       <h4>Nuestros Servicios</h4>
       <p>Tómese esas largas vacaciones que ha estado esperando, o simplemente vaya al trabajo todos los días con la 
         tranquilidad de que su mascota está recibiendo la atención y el ejercicio que merece de un cuidador de mascotas             
         profesional en el que puede confiar.</p>
     </div>
     <div>
+      <a name="tres"></a>
       <h4>Precio</h4>
       <table>
         <tr>
@@ -63,6 +70,7 @@
       </table>
     </div>
     <div>
+      <a name="cuatro"></a>
       <h4>Contacto</h4>
       <from method="pots" action="miservidor.php">
       <label for="nombre">Nombre:</label>
