@@ -74,7 +74,9 @@
     </div>
     <div>
       <a name="cuatro"></a>
-      <h4>Contacto</h4>
+      <h4>Contacto</h4> 
+      <p>Póngase en contacto con nosotros para obtener información sobre todos los servicios de cuidado de perros y mascotas en 
+        Madrid</p>
       <from method="pots" action="miservidor.php">
       <label for="nombre">Nombre:</label>
       <input id="nombre" type="text"> </br>
