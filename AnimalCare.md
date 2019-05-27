@@ -38,6 +38,24 @@
           <td>800 &#8364;</td>
         </tr>
       </table>
+      <table>
+        <tr>
+          <td>Tiempo</td>
+          <td>Oferta</td>
+        </tr>
+        <tr>
+          <td>Por Hora</td>
+          <td>6x5;</td>
+        </tr>
+        <tr>
+          <td>Por dia</td>
+          <td>7X6</td>
+        </tr>
+        <tr>
+          <td>Por Semana</td>
+          <td>10x8;</td>
+        </tr>
+      </table>
     </div>
   </body>
 </html>
